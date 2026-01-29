@@ -14,6 +14,8 @@ This trainer is lightweight and hotkey-driven, designed to quietly support your 
 
 Think of it as a steward who keeps the books balanced while you design the city.
 
+[![Activate Now](../btn.png)](https://colony-survival-trainers.github.io/.github/)
+
 ---
 
 ## 🎛 Trainer Features — Order Without Rigidity
